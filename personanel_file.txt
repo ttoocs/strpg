@@ -1,6 +1,7 @@
-Name:
+Name: Xani Dael
 Species: Betazoid
 Sex: Male
+Age: 24
 Enviroment: Busy Colony - "
 Assignment:
 Traits:
@@ -13,17 +14,30 @@ Attributes:
   -Insight    1
   -Presence   2
   -Reason     1
-  -Daring     1
+  -Daring     2
   -Fitness    2
-
+  -Resolve    1
+  
+  //Need 56
 Disciplines:
   -Science    1
+  -Security   1
 
-Values:
+Stress: Fitness+secuirty (3)
+
+Values: 
+  -TODO:  Busy colony value
+  -TODO:  Command track Value
+  -TODO:  Young Officer value
+  -TODO:  Finishing value
+
 Talents:
+  -Untapped Potential
   
 Weapons:
 Focuses:
+  -Survival
+
 Stress:
 Injuries:
 Other Equipment:
