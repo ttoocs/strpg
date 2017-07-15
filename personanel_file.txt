@@ -1,0 +1,30 @@
+Name:
+Species: Betazoid
+Sex: Male
+Enviroment: Busy Colony - "
+Assignment:
+Traits:
+  -Telepath "Sense the surface thoughts and emotions of most living beings nearby, and can communicate telepathically with other empaths and telepaths, as well as those with whom you are extremely familiar. Surface thoughts are whatever a creature is thinking about at that precise moment. The character cannot choose not to sense the emotions or read the surface thoughts of those nearby, except for those who are resistant to telepathy. It will require effort and a Task to pick out the emotions or thoughts of a specific individual in a crowd, to search a creature’s mind for specific thoughts or memories, or to block out the minds of those nearby. Unwilling targets may resist with an Opposed Task."
+
+Rank:
+Upbringing: Artistic and Creative (rebell)
+
+Attributes: 
+  -Insight    1
+  -Presence   2
+  -Reason     1
+  -Daring     1
+  -Fitness    2
+
+Disciplines:
+  -Science    1
+
+Values:
+Talents:
+  
+Weapons:
+Focuses:
+Stress:
+Injuries:
+Other Equipment:
+
