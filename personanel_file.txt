@@ -2,28 +2,30 @@ Name: Xani Dael
 Species: Betazoid
 Sex: Male
 Age: 24
-Enviroment: Busy Colony - "
-Assignment:
+Enviroment: Busy Colony - ""
+Assignment: Command
 Traits:
   -Telepath "Sense the surface thoughts and emotions of most living beings nearby, and can communicate telepathically with other empaths and telepaths, as well as those with whom you are extremely familiar. Surface thoughts are whatever a creature is thinking about at that precise moment. The character cannot choose not to sense the emotions or read the surface thoughts of those nearby, except for those who are resistant to telepathy. It will require effort and a Task to pick out the emotions or thoughts of a specific individual in a crowd, to search a creature’s mind for specific thoughts or memories, or to block out the minds of those nearby. Unwilling targets may resist with an Opposed Task."
 
-Rank:
-Upbringing: Artistic and Creative (rebell)
+Rank: Younging.
 
-Attributes: 
-  -Insight    1
-  -Presence   2
-  -Reason     1
-  -Daring     2
-  -Fitness    2
-  -Resolve    1
+Attributes:
+  -Control    10
+  -Fitness    9
+  -Presence   9
+  -Daring     9
+  -Insight    9
+  -Reason     10 
   
-  //Need 56
 Disciplines:
+  -Command    4
+  -Security   2 + to damange
   -Science    1
-  -Security   1
+  -Conn       5 
+  -Eng        2
+  -Med        1
 
-Stress: Fitness+secuirty (3)
+Stress: Fitness+secuirty (11)
 
 Values: 
   -TODO:  Busy colony value
@@ -41,4 +43,5 @@ Focuses:
 Stress:
 Injuries:
 Other Equipment:
-
+  Communicator
+  
